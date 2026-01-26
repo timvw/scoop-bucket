@@ -1,0 +1,15 @@
+{
+    "version": "0.1.16",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/timvw/wt/releases/download/v0.1.16/wt_0.1.16_windows_amd64.zip",
+            "bin": [
+                "wt.exe"
+            ],
+            "hash": "17c481c66d6760416d93278446ad73802d7ad35bdbebcfc698e3c7dfc7b363b1"
+        }
+    },
+    "homepage": "https://github.com/timvw/wt",
+    "license": "MIT",
+    "description": "A fast, simple Git worktree helper"
+}
