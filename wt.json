@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/timvw/wt/releases/download/v0.3.0/wt_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/timvw/wt/releases/download/v0.4.0/wt_0.4.0_windows_amd64.zip",
             "bin": [
                 "wt.exe"
             ],
-            "hash": "5ebcb328a7dede1e1098ce49c9ca863ccfa33a3e934c695960fac0777bb81819"
+            "hash": "cc79bbef7837ae2767214d8384262ee9d808762d4f912a979ae949fd201912d9"
         }
     },
     "homepage": "https://github.com/timvw/wt",
